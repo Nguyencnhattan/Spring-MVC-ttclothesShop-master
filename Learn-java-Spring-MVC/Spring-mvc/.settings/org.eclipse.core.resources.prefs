@@ -1,0 +1,9 @@
+eclipse.preferences.version=1
+encoding//database/insert.sql=UTF-8
+encoding//src/main/java/com/laptrinhjavaweb/converter/ProductConverter.java=UTF-8
+encoding//src/main/java/com/laptrinhjavaweb/dto/readme.rd=UTF-8
+encoding//src/main/java/com/laptrinhjavaweb/service/impl/OrderService.java=UTF-8
+encoding//src/main/webapp/WEB-INF/views/web/cart.jsp=UTF-8
+encoding//src/main/webapp/WEB-INF/views/web/checkout.jsp=UTF-8
+encoding//src/main/webapp/WEB-INF/views/web/product.jsp=UTF-8
+encoding//src/main/webapp/common/web/footer.jsp=UTF-8
